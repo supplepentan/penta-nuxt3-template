@@ -1,0 +1,33 @@
+<script>
+import PostsText from "./components/PostsText.vue";
+export default {
+    head() {
+        return {
+            script: [
+                {
+                    src: "./assets/js/bootstrap.bundle.min.js"
+                }
+            ],
+            link: [
+                {
+                    rel: "stylesheet",
+                    href: "./assets/css/bootstrap.min.css"
+                }
+            ]
+        };
+    },
+    components: { PostsText }
+}
+</script>
+
+<template>
+  <div class="container-fluid">
+    <PostsImage />
+    <Header />
+    <NuxtPage />
+    <Footer /> 
+  </div>
+</template>
+
+<style>
+</style>

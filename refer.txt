@@ -1,0 +1,7 @@
+https://zenn.dev/yuta_enginner/articles/84f6ef77a0495f
+pinia
+https://dev.to/codybontecou/nuxt-3-and-pinia-473k
+グラフ
+https://o296.com/e-e23bd9ae08e2459aadd5f9c73022935561d9107bb7e948cb9846d51866d96835
+useFetch
+https://techblog.roxx.co.jp/entry/2021/10/18/092554
