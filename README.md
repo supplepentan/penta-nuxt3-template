@@ -22,6 +22,7 @@ Start the development server on http://localhost:3000
 ```bash
 cd back
 venv/scripts/activate
+python app.py
 cd ..
 yarn dev
 ```
