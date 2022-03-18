@@ -1,6 +1,4 @@
-# Nuxt 3 Minimal Starter
-
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+# Penta-Nuxt3-Tmplate Starter
 
 ## Setup
 
@@ -10,7 +8,14 @@ Make sure to install the dependencies
 yarn install
 ```
 
-## Development
+Backend(API)-Setting for Deveropment
+
+```bash
+cd back
+python -m pip install -r requirements.txt
+```
+
+## Development(Position is main root.)
 
 Start the development server on http://localhost:3000
 
