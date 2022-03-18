@@ -2,12 +2,11 @@ import { defineNuxtConfig } from 'nuxt3'
 
 // https://v3.nuxtjs.org/docs/directory-structure/nuxt.config
 export default defineNuxtConfig({
-    meta: {                      // !!Nuxt3からheadになったので注意！！！
+    meta: {
         htmlAttrs: {
             lang: 'ja',
-            'data-theme': "cupcake"  // テーマを選択
         },
-        title: 'さぷりぺんたんの世界',
+        title: 'さぷりぺんたんの世界 (Penta the World)',
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' }
