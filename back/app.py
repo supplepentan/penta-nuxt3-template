@@ -11,7 +11,6 @@ def text():
         return "GETです"
     else:
         post_data = request.args.get("code")
-        print("This", post_data)
         return post_data
 
 
