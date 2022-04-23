@@ -22,7 +22,7 @@ export default {
 
 <template>
   <div class="container-fluid">
-    <PostsImage />
+    <PostsForm />
     <Header />
     <NuxtPage />
     <Footer /> 
