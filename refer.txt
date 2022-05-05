@@ -9,3 +9,12 @@ formDataのインストールとPOST
 https://bobbyhadz.com/blog/javascript-formdata-is-not-defined
 useFetch
 https://vueuse.org/core/usefetch/
+https://gray-code.com/javascript/sending-file-data-by-fetch-api/
+ファイルのアップロード
+https://www.paveway.info/entry/2021/07/12/vuetifyjs_vfileinput
+nuxt3
+https://www.bookstack.cn/read/nuxtjs-3.0.beta-en/GettingStarted.md
+axios
+https://axios.nuxtjs.org/setup/
+formdata
+https://serversideup.net/post-put-and-patch-requests-with-nuxt-3/

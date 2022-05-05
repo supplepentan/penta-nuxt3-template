@@ -6,7 +6,7 @@ const fileSelected = (event) => {
       reader.onload = (event) => {
           previewBase64.value = event.target.result;
       };
-      reader.readAsDataURL(event.target.files[0]);
+      reader.readAsDataURL(event.target.files[0]);//データを base64 データurl にエンコードします
     };
 const submit = () => {
     const {data} = useFetch("http://192.168.0.29:8000/image", {

@@ -1,4 +1,5 @@
 <script>
+import PostsFormAxios from "./components/PostsFormAxios.vue";
 import PostsText from "./components/PostsText.vue";
 export default {
     head() {
@@ -16,7 +17,7 @@ export default {
             ]
         };
     },
-    components: { PostsText }
+    components: { PostsText, PostsFormAxios }
 }
 </script>
 
